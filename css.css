@@ -1,0 +1,91 @@
+.Navigation{
+    background-color: rgb(101, 178, 195);
+    border: 5px black solid;
+}
+.list{
+    display: inline;
+}
+.shopName{
+    color: red;
+    font: 200;
+    margin-left: 50px;
+}
+.home{
+    display: inline;
+    padding: 5px;
+    margin-left: 650px;
+
+}
+.adr{
+    display: inline;
+    padding: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+ 
+}
+.collect{
+    display: inline;
+    padding: 5px;
+    margin-right: 5px;
+}
+.potfolio{
+    display: inline;
+    padding: 5px;
+    margin-right: 5px;
+}
+.contact{
+    display: inline;
+    padding: 5px;
+    margin-right: 5px;
+}
+.Name{
+    display: inline;
+    padding: 5px;
+}
+
+.offers{
+    background-color: red;
+    color: antiquewhite;
+}
+#body{
+    margin: 0px;
+    
+}
+.searchBar{
+    margin-top: 50px;
+    width : 500px;
+    padding: 10px;
+    margin-left: 350px;
+
+    
+}
+.img1{
+    display: inline-block;
+    margin-left: 200px; 
+}
+.img2{
+    display: inline-block;
+}
+.img3{
+    display: inline-block;
+}
+.imgCap1,.imgCap2 ,.imgCap3{
+    color: red;
+    
+}
+.imgCap1-2 ,.imgCap2-2 ,.imgCap3-2{
+    font-size: large;
+    font: bolder;
+}
+.imgCap1-3 ,.imgCap2-3 ,.imgCap3-3{
+    color: rgb(165, 154, 154);
+}
+.imgCap1-4,.imgCap2-4,.imgCap3-4{
+    font: bolder;
+    font-size: medium;
+    margin-top: 2px;
+}
+
+
+
+
