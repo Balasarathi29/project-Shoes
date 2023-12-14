@@ -1,12 +1,12 @@
 .Navigation{
     background-color: rgb(101, 178, 195);
-    border: 5px black solid;
+    border: 2px black solid;
 }
 .list{
     display: inline;
 }
 .shopName{
-    color: red;
+    color: orangered;
     font: 200;
     margin-left: 50px;
 }
@@ -46,44 +46,54 @@
 .offers{
     background-color: red;
     color: antiquewhite;
+    margin: 0px;
+    border: 5px red solid;
+    padding-left: 10px;
 }
 #body{
-    margin: 0px;
-    
+    margin: 0px;   
+}
+.p{
+    margin: 0%;
 }
 .searchBar{
     margin-top: 50px;
     width : 500px;
     padding: 10px;
     margin-left: 350px;
-
+    background-color: cyan;
     
 }
-.img1{
+.img{
+    margin-top: 20px;
+}
+.img1,.img4,.img7{
     display: inline-block;
     margin-left: 200px; 
 }
-.img2{
+.img2,.img5,.img8{
     display: inline-block;
 }
-.img3{
+.img3,.img6,.img9{
     display: inline-block;
 }
-.imgCap1,.imgCap2 ,.imgCap3{
-    color: red;
-    
+.imgCap1,.imgCap2 ,.imgCap3,.imgCap6,.imgCap9{
+    color: red;   
 }
-.imgCap1-2 ,.imgCap2-2 ,.imgCap3-2{
+.imgCap1-2 ,.imgCap2-2 ,.imgCap3-2,.imgCap4-2,.imgCap5-2,.imgCap6-2,.imgCap7-2,.imgCap8-2,.imgCap8-2{
     font-size: large;
     font: bolder;
 }
-.imgCap1-3 ,.imgCap2-3 ,.imgCap3-3{
+.imgCap1-3 ,.imgCap2-3 ,.imgCap3-3,.imgCap4-3,.imgCap5-3,.imgCap6-3,.imgCap7-3,.imgCap8-3,.imgCap9-3{
     color: rgb(165, 154, 154);
 }
-.imgCap1-4,.imgCap2-4,.imgCap3-4{
+.imgCap1-4,.imgCap2-4,.imgCap3-4,.imgCap4-4,.imgCap5-4,.imgCap6-4,.imgCap7-4,.imgCap8-4,.imgCap9-4{
     font: bolder;
     font-size: medium;
     margin-top: 2px;
+}
+.Waste{
+    color: white;
 }
 
 
