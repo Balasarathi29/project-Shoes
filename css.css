@@ -5,17 +5,7 @@
 .list{
     display: inline;
 }
-.logo{
-    margin-top: 5px;
-    margin-left: 500px;
-    border: 2px black solid;
-    width: 20px;
-    height: 20px;
-    border-radius: 50%;
-    background-color: black;
-    outline: 1px white dashed;
-    outline-offset: 2px;  
-}
+
 .shopName{
     color: orangered;
     font: 200;
